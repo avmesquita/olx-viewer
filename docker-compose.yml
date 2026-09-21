@@ -1,0 +1,9 @@
+services:
+  olx-viewer:
+    build: .
+    ports:
+      - "8777:80"
+    volumes:
+      - ./links.json:/usr/share/nginx/html/links.json:ro
+    restart: unless-stopped
+      

@@ -2,6 +2,8 @@
 
 Visualizador de anúncios OLX com preview de OpenGraph em cards e abertura direta no site.
 
+<img width="1032" height="617" alt="image" src="https://github.com/user-attachments/assets/13d735ea-c826-460c-929a-5db35bba16b6" />
+
 ## Como funciona
 
 - `links.json` — lista de URLs do OLX que você quer acompanhar
